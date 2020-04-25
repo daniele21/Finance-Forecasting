@@ -1,4 +1,4 @@
-Time Series Analysis
+Time Series Analysis applied to Finance
 
 Models:
 

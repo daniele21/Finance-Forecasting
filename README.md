@@ -12,3 +12,10 @@ Prediction on:
   - AAL --> American Airlines
   - LHA --> Lufthansa
   
+  
+  
+Model Details:
+
+  - Training loss: Huber loss
+  - Evaluation: MAE
+  - Optimizer: Adam

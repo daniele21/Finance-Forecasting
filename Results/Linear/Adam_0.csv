@@ -1,4 +1,0 @@
-,ticker,start,window_size,batch_size,shuffle_buffer,split,model,neurons,opt,lr,epochs,loss,verbose,train_error,valid_error
-0,UAL,2020-1-1,20,32,230,92,Linear,30,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,0.001,500,mse,0,7.320833,4.0655885
-1,UAL,2020-1-1,20,32,230,92,Linear,20,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,0.001,500,mse,0,7.320833,4.0655885
-2,UAL,2020-1-1,20,32,230,92,Linear,1,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,0.001,500,mse,0,7.320833,4.0655885

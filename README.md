@@ -21,4 +21,4 @@ Model Details:
   - Optimizer: Adam
 
 Some examples:
-!(https://github.com/daniele21/Time-Series-Prediction/tree/master/Results/Linear/LHA-Daily.jpeg)
+![Example 1](https://github.com/daniele21/Time-Series-Prediction/tree/master/Results/Linear/LHA-Daily.jpeg)

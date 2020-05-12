@@ -25,4 +25,4 @@
 
 
 # Training and Forecasting:
-![UAL-weekly](https://github.com/daniele21/Time-Series-Prediction/blob/master/Results/Linear/UAL_weekly.jpeg)
+![UAL-weekly](https://github.com/daniele21/Time-Series-Prediction/blob/master/Results/Linear/LHA-weekly.jpeg)

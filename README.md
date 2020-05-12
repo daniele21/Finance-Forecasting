@@ -1,11 +1,11 @@
-Time Series Analysis applied to Finance
+# Time Series Analysis applied to Finance
 
-Models:
+## Models:
 
   - Linear NN
   - Conv-LSTM NN
   
-Prediction on:
+## Prediction on:
 
   - UAL --> United Arlines
   - DAL --> Delta Airlines
@@ -13,15 +13,16 @@ Prediction on:
   - LHA --> Lufthansa
   
   
-  
-Model Details:
+## Model Details:
 
   - Training loss: Huber loss
   - Evaluation: MAE
   - Optimizer: Adam
 
-Some examples:
-![LHA-daily](https://github.com/daniele21/Time-Series-Prediction/blob/master/Results/Linear/LHA-Daily.jpeg)
-![LHA-weekly](https://github.com/daniele21/Time-Series-Prediction/blob/master/Results/Linear/LHA-weekly.jpeg)
+# Training and Test:
 ![UAL-daily](https://github.com/daniele21/Time-Series-Prediction/blob/master/Results/Linear/UAL_daily.jpeg)
+
+
+
+# Training and Forecasting:
 ![UAL-weekly](https://github.com/daniele21/Time-Series-Prediction/blob/master/Results/Linear/UAL_weekly.jpeg)
